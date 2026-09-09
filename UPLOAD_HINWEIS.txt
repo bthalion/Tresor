@@ -1,0 +1,9 @@
+TRESOR HOLZDORF – GITHUB PAGES
+================================
+Komplette uploadfertige Fassung.
+
+1. Neues öffentliches Repository anlegen, z. B. tresor-final
+2. INHALT dieses Ordners hochladen; index.html muss direkt im Hauptverzeichnis liegen.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save
+4. Danach auf dem iPad in Safari öffnen und Zum Home-Bildschirm hinzufügen.
+5. Nach vollständigem Laden WLAN ausschalten und Offline-Betrieb testen.

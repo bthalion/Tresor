@@ -1,0 +1,10 @@
+{
+  "name": "Der Tresor von Holzdorf",
+  "short_name": "Tresor Holzdorf",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#11100e",
+  "theme_color": "#11100e"
+}

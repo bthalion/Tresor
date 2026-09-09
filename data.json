@@ -1,0 +1,92 @@
+{
+  "themes": [
+    {
+      "id": "01",
+      "title": "DER TRESOR",
+      "image": "tresor.jpg",
+      "subtitle": "Tresorraum, Öffnung und Erinnerungen",
+      "audio": [
+        [
+          "Die Tresoröffnung",
+          "01_tresor_arnhoefel.mp3"
+        ],
+        [
+          "Erinnerungen an den Tresor",
+          "01_tresor_post.mp3"
+        ]
+      ]
+    },
+    {
+      "id": "02",
+      "title": "DIE SAMMLUNG",
+      "image": "sammlung.jpg",
+      "subtitle": "Die Kunstsammlung Otto Krebs",
+      "audio": [
+        [
+          "Die Bildersammlung",
+          "02_sammlung_bleicher.mp3"
+        ],
+        [
+          "Die Sammlung",
+          "02_sammlung_oberl.mp3"
+        ]
+      ]
+    },
+    {
+      "id": "03",
+      "title": "OTTO KREBS & HOLZDORF",
+      "image": "krebs.jpg",
+      "subtitle": "Sammler, Landgut und Lagerung",
+      "audio": [
+        [
+          "Zur Lagerung der Sammlung",
+          "03_krebs_lagerung.mp3"
+        ]
+      ]
+    },
+    {
+      "id": "04",
+      "title": "DAS GEHEIMNIS DER DECKE",
+      "image": "decke.jpg",
+      "subtitle": "Erinnerungen an Konstruktion und Tresorraum",
+      "audio": [
+        [
+          "Warum der Tresor?",
+          "04_decke_post.mp3"
+        ]
+      ]
+    },
+    {
+      "id": "05",
+      "title": "1945–1949",
+      "image": "oeffnung.jpg",
+      "subtitle": "Öffnung, Nachkriegszeit und Verschwinden",
+      "audio": [
+        [
+          "Beutekunst und Besitz",
+          "05_oeffnung_oberl.mp3"
+        ],
+        [
+          "Kunstraub",
+          "05_kunstraub_post.mp3"
+        ]
+      ]
+    },
+    {
+      "id": "06",
+      "title": "WO SIND DIE BILDER HEUTE?",
+      "image": "heute.jpg",
+      "subtitle": "St. Petersburg und die spätere Wiederentdeckung",
+      "audio": [
+        [
+          "St. Petersburg",
+          "06_petersburg_post.mp3"
+        ],
+        [
+          "Museumsdirektor und Wiederentdeckung",
+          "06_museum_post.mp3"
+        ]
+      ]
+    }
+  ]
+}
